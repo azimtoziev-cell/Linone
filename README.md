@@ -1,2 +1,2 @@
-# lilone
+# linone
 lin
